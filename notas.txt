@@ -1,0 +1,18 @@
+=============///GIT///============
+├¯¯¯¯¯¯ · │ └
+
+basico
+¯¯¯¯¯├─commit
+     │      ├■--m   //Subis los archivos subidos al repositorio
+     │      ├■--am  //Subis los archivos y los cargas al repositorio
+     │      ├■--amend //Visor para cambiar el nombre al repositorio actual
+     │
+     ├─log
+     │   ├■--oneline //Es para ver la cantidad de commit o "actualizaciones"
+     │
+     ├─add
+     │   ├■ .  //Sirve para subir todos los archivos
+     │   ├■ "name" //Sirve para subir un archivo en especifico
+     │
+     └─reset
+          ├■ hard "codigo de actualizacion" //Con este restauras una version en especifico
